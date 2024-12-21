@@ -16,4 +16,4 @@ How to Use:
 Clone the repository.
 Set up the required environment (requirements.txt).
 Open and run the Jupyter Notebook to explore the workflow.
-Feel free to provide feedback or contribute to the repository!****
+Feel free to provide feedback or contribute to the repository!
